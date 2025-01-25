@@ -5,4 +5,4 @@ I am an Oracle Database Product Manager for scripting and C language APIs.  This
 
 I also liaise with the excellent community owners and maintainers of other scripting APIs for Oracle Database.
 
-I tweet at <https://twitter.com/ghrd> and blog at https://medium.com/@cjones-oracle
+I blog at https://medium.com/@cjones-oracle
